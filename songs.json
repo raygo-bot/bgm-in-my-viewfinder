@@ -1,0 +1,794 @@
+[
+  {
+    "id": "01",
+    "title": "Slow Mornings Let Me Leave the Rush Behind",
+    "artist": "Timeless Hour",
+    "photo": "photos/01.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/Slow%20Mornings%20Let%20Me%20Leave%20the%20Rush%20Timeless%20Hour",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Slow%20Mornings%20Let%20Me%20Leave%20the%20Rush%20Timeless%20Hour",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=Slow%20Mornings%20Let%20Me%20Leave%20the%20Rush%20Timeless%20Hour",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Slow%20Mornings%20Let%20Me%20Leave%20the%20Rush%20Timeless%20Hour",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "02",
+    "title": "感じない午後.",
+    "artist": "Citypopvibes.",
+    "photo": "photos/02.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/%E6%84%9F%E3%81%98%E3%81%AA%E3%81%84%E5%8D%88%E5%BE%8C.%20Citypopvibes.",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E6%84%9F%E3%81%98%E3%81%AA%E3%81%84%E5%8D%88%E5%BE%8C.%20Citypopvibes.",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1775298694",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E6%84%9F%E3%81%98%E3%81%AA%E3%81%84%E5%8D%88%E5%BE%8C.%20Citypopvibes.",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "03",
+    "title": "夢で逢えたら",
+    "artist": "吉田美奈子",
+    "photo": "photos/03.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/5OxxK9JLmEuHZzp2RajmKv",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E5%A4%A2%E3%81%A7%E9%80%A2%E3%81%88%E3%81%9F%E3%82%89%20%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=%E5%A4%A2%E3%81%A7%E9%80%A2%E3%81%88%E3%81%9F%E3%82%89%20%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E5%A4%A2%E3%81%A7%E9%80%A2%E3%81%88%E3%81%9F%E3%82%89%20%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "04",
+    "title": "Sweet Memories",
+    "artist": "松田聖子",
+    "photo": "photos/04.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/19EoWbuwDMhULi0oqs7RWU",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Sweet%20Memories%20%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1537516189",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/watch?v=WE_US-HXyMI",
+        "mode": "video"
+      }
+    }
+  },
+  {
+    "id": "05",
+    "title": "石神井川であいましょう",
+    "artist": "中山うり",
+    "photo": "photos/05.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%B7%9D%E3%81%A7%E3%81%82%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%E4%B8%AD%E5%B1%B1%E3%81%86%E3%82%8A",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%B7%9D%E3%81%A7%E3%81%82%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%E4%B8%AD%E5%B1%B1%E3%81%86%E3%82%8A",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%B7%9D%E3%81%A7%E3%81%82%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%E4%B8%AD%E5%B1%B1%E3%81%86%E3%82%8A",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%B7%9D%E3%81%A7%E3%81%82%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%E4%B8%AD%E5%B1%B1%E3%81%86%E3%82%8A",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "06",
+    "title": "等待雨散",
+    "artist": "旺福",
+    "photo": "photos/06.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/%E7%AD%89%E5%BE%85%E9%9B%A8%E6%95%A3%20%E6%97%BA%E7%A6%8F",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E7%AD%89%E5%BE%85%E9%9B%A8%E6%95%A3%20%E6%97%BA%E7%A6%8F",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=%E7%AD%89%E5%BE%85%E9%9B%A8%E6%95%A3%20%E6%97%BA%E7%A6%8F",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E7%AD%89%E5%BE%85%E9%9B%A8%E6%95%A3%20%E6%97%BA%E7%A6%8F",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "07",
+    "title": "Rainy Blue",
+    "artist": "德永英明",
+    "photo": "photos/07.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/Rainy%20Blue%20%E5%BE%B7%E6%B0%B8%E8%8B%B1%E6%98%8E",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Rainy%20Blue%20%E5%BE%B7%E6%B0%B8%E8%8B%B1%E6%98%8E",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1769080536",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Rainy%20Blue%20%E5%BE%B7%E6%B0%B8%E8%8B%B1%E6%98%8E",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "08",
+    "title": "防波堤で見た景色",
+    "artist": "BEGIN",
+    "photo": "photos/08.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/%E9%98%B2%E6%B3%A2%E5%A0%A4%E3%81%A7%E8%A6%8B%E3%81%9F%E6%99%AF%E8%89%B2%20BEGIN",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E9%98%B2%E6%B3%A2%E5%A0%A4%E3%81%A7%E8%A6%8B%E3%81%9F%E6%99%AF%E8%89%B2%20BEGIN",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/jp/song/1838960496",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E9%98%B2%E6%B3%A2%E5%A0%A4%E3%81%A7%E8%A6%8B%E3%81%9F%E6%99%AF%E8%89%B2%20BEGIN",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "09",
+    "title": "Yes I’m in Love",
+    "artist": "杏里",
+    "photo": "photos/09.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/Yes%20I%E2%80%99m%20in%20Love%20%E6%9D%8F%E9%87%8C",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Yes%20I%E2%80%99m%20in%20Love%20%E6%9D%8F%E9%87%8C",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/283306320",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Yes%20I%E2%80%99m%20in%20Love%20%E6%9D%8F%E9%87%8C",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "10",
+    "title": "Two Sleepy People",
+    "artist": "胖子華勒",
+    "photo": "photos/10.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/0n9Yk2n0ERA1WqOlg5Rs0s",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Two%20Sleepy%20People%20%E8%83%96%E5%AD%90%E8%8F%AF%E5%8B%92",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/304826858",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Two%20Sleepy%20People%20Fats%20Waller",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "11",
+    "title": "to be loved",
+    "artist": "vhs ghost",
+    "photo": "photos/11.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/to%20be%20loved%20vhs%20ghost",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=to%20be%20loved%20vhs%20ghost",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=to%20be%20loved%20vhs%20ghost",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=to%20be%20loved%20vhs%20ghost",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "12",
+    "title": "Take It Slow",
+    "artist": "Jigoooo Radio",
+    "photo": "photos/12.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/0tyQ32pMkNdeECd95MFzcI",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Take%20It%20Slow%20Jigoooo%20Radio",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/6790346178",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Take%20It%20Slow%20Jigoooo%20Radio",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "13",
+    "title": "Fly (Slowed + Reverb)",
+    "artist": "Dennis Korn",
+    "photo": "photos/13.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/0TM7YrVUBqJLwy7900v9Fz",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Fly%20%28Slowed%20%2B%20Reverb%29%20Dennis%20Korn",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=Fly%20Slowed%20Reverb%20Dennis%20Korn",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Fly%20Slowed%20Reverb%20Dennis%20Korn",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "14",
+    "title": "Somewhere Only We Know",
+    "artist": "Rhianne",
+    "photo": "photos/14.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/50Q02S1ZY0hwbmHTMABuDC",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Somewhere%20Only%20We%20Know%20Rhianne",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1764710480",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Somewhere%20Only%20We%20Know%20Rhianne",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "15",
+    "title": "The Child In Me",
+    "artist": "Ron Adelaar",
+    "photo": "photos/15.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/The%20Child%20In%20Me%20Ron%20Adelaar",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=The%20Child%20In%20Me%20Ron%20Adelaar",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=The%20Child%20In%20Me%20Ron%20Adelaar",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=The%20Child%20In%20Me%20Ron%20Adelaar",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "16",
+    "title": "1950",
+    "artist": "Dr.Danger",
+    "photo": "photos/16.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/1950%20Dr.Danger",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=1950%20Dr.Danger",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=1950%20Dr.Danger",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=1950%20Dr.Danger",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "17",
+    "title": "do you think you could love me?",
+    "artist": "Yung kai",
+    "photo": "photos/17.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp",
+        "mode": "album"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=do%20you%20think%20you%20could%20love%20me%3F%20Yung%20kai",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1797590872",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=do%20you%20think%20you%20could%20love%20me%3F%20Yung%20kai",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "18",
+    "title": "The Oogum Boogum Song",
+    "artist": "Brenton Wood",
+    "photo": "photos/18.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf",
+        "mode": "album"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=The%20Oogum%20Boogum%20Song%20Brenton%20Wood",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1440935687",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=The%20Oogum%20Boogum%20Song%20Brenton%20Wood",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "19",
+    "title": "Em Trang Trí",
+    "artist": "Ngọt.",
+    "photo": "photos/19.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3",
+        "mode": "album"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Em%20Trang%20Tr%C3%AD%20Ng%E1%BB%8Dt.",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1600616172",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Em%20Trang%20Tr%C3%AD%20Ng%E1%BB%8Dt.",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "20",
+    "title": "Fascination",
+    "artist": "Nat King Cole",
+    "photo": "photos/20.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/0NRMJzzC9r2WL361Ludwhs",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Fascination%20Nat%20King%20Cole",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1443924660",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Fascination%20Nat%20King%20Cole",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "21",
+    "title": "島",
+    "artist": "椅子樂團",
+    "photo": "photos/21.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/%E5%B3%B6%20%E6%A4%85%E5%AD%90%E6%A8%82%E5%9C%98",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E5%B3%B6%20%E6%A4%85%E5%AD%90%E6%A8%82%E5%9C%98",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=%E5%B3%B6%20%E6%A4%85%E5%AD%90%E6%A8%82%E5%9C%98",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E5%B3%B6%20%E6%A4%85%E5%AD%90%E6%A8%82%E5%9C%98",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "22",
+    "title": "ドリーム・ボートが出る夜に",
+    "artist": "菊池桃子",
+    "photo": "photos/22.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%81%8C%E5%87%BA%E3%82%8B%E5%A4%9C%E3%81%AB%20%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%81%8C%E5%87%BA%E3%82%8B%E5%A4%9C%E3%81%AB%20%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%81%8C%E5%87%BA%E3%82%8B%E5%A4%9C%E3%81%AB%20%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%81%8C%E5%87%BA%E3%82%8B%E5%A4%9C%E3%81%AB%20%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "23",
+    "title": "人間そっくり",
+    "artist": "plenty",
+    "photo": "photos/23.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/49W7bdFu0r2mg029okCcet",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E4%BA%BA%E9%96%93%E3%81%9D%E3%81%A3%E3%81%8F%E3%82%8A%20plenty",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=%E4%BA%BA%E9%96%93%E3%81%9D%E3%81%A3%E3%81%8F%E3%82%8A%20plenty",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E4%BA%BA%E9%96%93%E3%81%9D%E3%81%A3%E3%81%8F%E3%82%8A%20plenty",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "24",
+    "title": "For Lovers",
+    "artist": "Lamp",
+    "photo": "photos/24.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2",
+        "mode": "album"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=For%20Lovers%20Lamp",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1486281115",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=For%20Lovers%20Lamp",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "25",
+    "title": "L´atelier",
+    "artist": "Sungha Jung",
+    "photo": "photos/25.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/L%C2%B4atelier%20Sungha%20Jung",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=L%C2%B4atelier%20Sungha%20Jung",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=L%C2%B4atelier%20Sungha%20Jung",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=L%C2%B4atelier%20Sungha%20Jung",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "26",
+    "title": "True",
+    "artist": "Spandau Ballet",
+    "photo": "photos/26.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/0XL5Ej52BfAU8svhprMNnD",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=True%20Spandau%20Ballet",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/697480528",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=True%20Spandau%20Ballet",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "27",
+    "title": "恋におちて -Fall in love-",
+    "artist": "小林明子",
+    "photo": "photos/27.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/02bJCgSVf2p8kVhJs7uhOB",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/song/SnMIMe6c2cLmxSTL-7",
+        "mode": "track"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=%E6%81%8B%E3%81%AB%E3%81%8A%E3%81%A1%E3%81%A6%20Fall%20in%20love%20%E5%B0%8F%E6%9E%97%E6%98%8E%E5%AD%90",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E6%81%8B%E3%81%AB%E3%81%8A%E3%81%A1%E3%81%A6%20Fall%20in%20love%20%E5%B0%8F%E6%9E%97%E6%98%8E%E5%AD%90",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "28",
+    "title": "Autumn Journey",
+    "artist": "Andrea Vanzo",
+    "photo": "photos/28.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/Autumn%20Journey%20Andrea%20Vanzo",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Autumn%20Journey%20Andrea%20Vanzo",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/album/autumn-journey-single/6802456334",
+        "mode": "album"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/watch?v=V8zJsRx_R9I",
+        "mode": "video"
+      }
+    }
+  },
+  {
+    "id": "29",
+    "title": "Little Love",
+    "artist": "Flowerbed",
+    "photo": "photos/29.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/0O3lcDRoCIfcKf5Tc9Pisj",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Little%20Love%20Flowerbed",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1840157195",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Little%20Love%20Flowerbed",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "30",
+    "title": "才二十三",
+    "artist": "方大同",
+    "photo": "photos/30.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/1h1odolBoxI1BvZUpoAGcH",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/hk/tc/song/8qW285a8YrrZMFoy-M",
+        "mode": "track-hk"
+      },
+      "apple": {
+        "url": "https://music.apple.com/vn/song/1762980607",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/watch?v=EPSH4fNYCeQ",
+        "mode": "video"
+      }
+    }
+  },
+  {
+    "id": "31",
+    "title": "Let You Break My Heart Again",
+    "artist": "Laufey, Philharmonia Orchestra",
+    "photo": "photos/31.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo",
+        "mode": "track"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Let%20You%20Break%20My%20Heart%20Again%20Laufey%2C%20Philharmonia%20Orchestra",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1606417551",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/watch?v=NLphEFOyoqM",
+        "mode": "video"
+      }
+    }
+  },
+  {
+    "id": "32",
+    "title": "世界的約定",
+    "artist": "竹仲繪里",
+    "photo": "photos/32.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/%E4%B8%96%E7%95%8C%E3%81%AE%E7%B4%84%E6%9D%9F%20%E7%AB%B9%E4%BB%B2%E7%B5%B5%E9%87%8C",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E4%B8%96%E7%95%8C%E7%9A%84%E7%B4%84%E5%AE%9A%20%E7%AB%B9%E4%BB%B2%E7%B9%AA%E9%87%8C",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/tw/search?term=%E4%B8%96%E7%95%8C%E3%81%AE%E7%B4%84%E6%9D%9F%20%E7%AB%B9%E4%BB%B2%E7%B5%B5%E9%87%8C",
+        "mode": "search"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=%E4%B8%96%E7%95%8C%E3%81%AE%E7%B4%84%E6%9D%9F%20%E7%AB%B9%E4%BB%B2%E7%B5%B5%E9%87%8C",
+        "mode": "search"
+      }
+    }
+  },
+  {
+    "id": "33",
+    "title": "Midnight Walk",
+    "artist": "d.ear",
+    "photo": "photos/33.jpg",
+    "links": {
+      "spotify": {
+        "url": "https://open.spotify.com/search/Midnight%20Walk%20d.ear",
+        "mode": "search"
+      },
+      "kkbox": {
+        "url": "https://www.kkbox.com/tw/tc/search.php?word=Midnight%20Walk%20d.ear",
+        "mode": "search"
+      },
+      "apple": {
+        "url": "https://music.apple.com/us/song/1800086229",
+        "mode": "track"
+      },
+      "youtube": {
+        "url": "https://www.youtube.com/results?search_query=Midnight%20Walk%20d.ear",
+        "mode": "search"
+      }
+    }
+  }
+]
