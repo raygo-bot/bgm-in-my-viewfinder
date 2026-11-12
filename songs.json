@@ -1,25 +1,25 @@
 [
   {
     "id": "01",
-    "title": "Slow Mornings Let Me Leave the Rush Behind",
+    "title": "Slow Mornings Let Me Leave the Rush",
     "artist": "Timeless Hour",
     "photo": "photos/01.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/Slow%20Mornings%20Let%20Me%20Leave%20the%20Rush%20Timeless%20Hour",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/6Avssk8OegdJlfAJvHBGJT?si=48edf2a7035c45e0",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Slow%20Mornings%20Let%20Me%20Leave%20the%20Rush%20Timeless%20Hour",
-        "mode": "search"
+        "url": "https://kkbox.fm/VF1RsUs",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=Slow%20Mornings%20Let%20Me%20Leave%20the%20Rush%20Timeless%20Hour",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/album/slow-mornings-let-me-leave-the-rush-behind/1854311559?i=1854311582",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Slow%20Mornings%20Let%20Me%20Leave%20the%20Rush%20Timeless%20Hour",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=ECLPt2CpjuI&list=RDECLPt2CpjuI&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -30,20 +30,20 @@
     "photo": "photos/02.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/%E6%84%9F%E3%81%98%E3%81%AA%E3%81%84%E5%8D%88%E5%BE%8C.%20Citypopvibes.",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/0CHtKNlu4GN3JFQ9PViSj3?si=a7adc29d6fbd4959",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E6%84%9F%E3%81%98%E3%81%AA%E3%81%84%E5%8D%88%E5%BE%8C.%20Citypopvibes.",
-        "mode": "search"
+        "url": "",
+        "mode": "unavailable"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1775298694",
+        "url": "https://music.apple.com/tw/album/感じない午後/1775298495?i=1775298694",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E6%84%9F%E3%81%98%E3%81%AA%E3%81%84%E5%8D%88%E5%BE%8C.%20Citypopvibes.",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=mcz4PUrqOKQ&list=RDmcz4PUrqOKQ&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -54,20 +54,20 @@
     "photo": "photos/03.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/5OxxK9JLmEuHZzp2RajmKv",
+        "url": "https://open.spotify.com/track/5OxxK9JLmEuHZzp2RajmKv?si=a1ebce99b9e04617",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E5%A4%A2%E3%81%A7%E9%80%A2%E3%81%88%E3%81%9F%E3%82%89%20%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90",
-        "mode": "search"
+        "url": "https://kkbox.fm/Vs3gm9",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=%E5%A4%A2%E3%81%A7%E9%80%A2%E3%81%88%E3%81%9F%E3%82%89%20%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/album/夢で逢えたら/1536910960?i=1536910966",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E5%A4%A2%E3%81%A7%E9%80%A2%E3%81%88%E3%81%9F%E3%82%89%20%E5%90%89%E7%94%B0%E7%BE%8E%E5%A5%88%E5%AD%90",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=pPGqpaH56Gs&list=RDpPGqpaH56Gs&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -78,15 +78,15 @@
     "photo": "photos/04.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/19EoWbuwDMhULi0oqs7RWU",
+        "url": "https://open.spotify.com/track/19EoWbuwDMhULi0oqs7RWU?si=d93410ece3904947",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Sweet%20Memories%20%E6%9D%BE%E7%94%B0%E8%81%96%E5%AD%90",
-        "mode": "search"
+        "url": "https://kkbox.fm/MsLNKa",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1537516189",
+        "url": "https://music.apple.com/tw/album/sweet-memories/1537516176?i=1537516189",
         "mode": "track"
       },
       "youtube": {
@@ -102,20 +102,20 @@
     "photo": "photos/05.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%B7%9D%E3%81%A7%E3%81%82%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%E4%B8%AD%E5%B1%B1%E3%81%86%E3%82%8A",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/5lnwej1zPqVXSv2InyrXWJ?si=cd3920ea26af4cbe",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%B7%9D%E3%81%A7%E3%81%82%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%E4%B8%AD%E5%B1%B1%E3%81%86%E3%82%8A",
-        "mode": "search"
+        "url": "https://kkbox.fm/fs2Cej",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%B7%9D%E3%81%A7%E3%81%82%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%E4%B8%AD%E5%B1%B1%E3%81%86%E3%82%8A",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/album/石神井川であいましょう/878949789?i=878949805",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E7%9F%B3%E7%A5%9E%E4%BA%95%E5%B7%9D%E3%81%A7%E3%81%82%E3%81%84%E3%81%BE%E3%81%97%E3%82%87%E3%81%86%20%E4%B8%AD%E5%B1%B1%E3%81%86%E3%82%8A",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=0NplIVWN4T4&list=RD0NplIVWN4T4&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -126,20 +126,20 @@
     "photo": "photos/06.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/%E7%AD%89%E5%BE%85%E9%9B%A8%E6%95%A3%20%E6%97%BA%E7%A6%8F",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/0xb9qQq48lPhlrmPf4EnG5?si=71c88a19180a4568",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E7%AD%89%E5%BE%85%E9%9B%A8%E6%95%A3%20%E6%97%BA%E7%A6%8F",
-        "mode": "search"
+        "url": "https://kkbox.fm/3sNqdn",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=%E7%AD%89%E5%BE%85%E9%9B%A8%E6%95%A3%20%E6%97%BA%E7%A6%8F",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/album/等待雨散/1400715336?i=1400715445",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E7%AD%89%E5%BE%85%E9%9B%A8%E6%95%A3%20%E6%97%BA%E7%A6%8F",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=bPEwa_Py074&list=RDbPEwa_Py074&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -150,20 +150,20 @@
     "photo": "photos/07.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/Rainy%20Blue%20%E5%BE%B7%E6%B0%B8%E8%8B%B1%E6%98%8E",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/5kAVO1ze23GNRjVr0paoxy?si=d5ebc043d2fe49bc",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Rainy%20Blue%20%E5%BE%B7%E6%B0%B8%E8%8B%B1%E6%98%8E",
-        "mode": "search"
+        "url": "https://kkbox.fm/Hs2iUI",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1769080536",
+        "url": "https://music.apple.com/tw/album/rainy-blue/1769079538?i=1769080536",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Rainy%20Blue%20%E5%BE%B7%E6%B0%B8%E8%8B%B1%E6%98%8E",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=eVsVWSq_wNE&list=RDeVsVWSq_wNE&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -174,20 +174,20 @@
     "photo": "photos/08.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/%E9%98%B2%E6%B3%A2%E5%A0%A4%E3%81%A7%E8%A6%8B%E3%81%9F%E6%99%AF%E8%89%B2%20BEGIN",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/5Cos4Mq9IWTrgreWKAkNwU?si=0be68df92d6d41f6",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E9%98%B2%E6%B3%A2%E5%A0%A4%E3%81%A7%E8%A6%8B%E3%81%9F%E6%99%AF%E8%89%B2%20BEGIN",
-        "mode": "search"
+        "url": "https://kkbox.fm/Va1WTps",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/jp/song/1838960496",
+        "url": "https://music.apple.com/tw/album/防波堤で見た景色/1838960278?i=1838960496",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E9%98%B2%E6%B3%A2%E5%A0%A4%E3%81%A7%E8%A6%8B%E3%81%9F%E6%99%AF%E8%89%B2%20BEGIN",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=DXt-iCSq5yU&list=RDDXt-iCSq5yU&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -198,20 +198,20 @@
     "photo": "photos/09.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/Yes%20I%E2%80%99m%20in%20Love%20%E6%9D%8F%E9%87%8C",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/0yz15xsDjWrO61v9ixy0zT?si=3468db8d5e8046fa",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Yes%20I%E2%80%99m%20in%20Love%20%E6%9D%8F%E9%87%8C",
-        "mode": "search"
+        "url": "",
+        "mode": "unavailable"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/283306320",
+        "url": "https://music.apple.com/tw/album/yes-im-in-love/283306315?i=283306320",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Yes%20I%E2%80%99m%20in%20Love%20%E6%9D%8F%E9%87%8C",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=TQBCJGsjDkw&list=RDTQBCJGsjDkw&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -222,20 +222,20 @@
     "photo": "photos/10.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/0n9Yk2n0ERA1WqOlg5Rs0s",
+        "url": "https://open.spotify.com/track/0n9Yk2n0ERA1WqOlg5Rs0s?si=d694b54c4cef45b1",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Two%20Sleepy%20People%20%E8%83%96%E5%AD%90%E8%8F%AF%E5%8B%92",
-        "mode": "search"
+        "url": "https://kkbox.fm/psXzSB",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/304826858",
+        "url": "https://music.apple.com/tw/album/two-sleepy-people/304826649?i=304826858",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Two%20Sleepy%20People%20Fats%20Waller",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=UR2sO9rSBno&list=RDUR2sO9rSBno&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -246,20 +246,20 @@
     "photo": "photos/11.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/to%20be%20loved%20vhs%20ghost",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/2Nn4POhpsofuWibtoRZpX7?si=f58813587193432c",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=to%20be%20loved%20vhs%20ghost",
-        "mode": "search"
+        "url": "",
+        "mode": "unavailable"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=to%20be%20loved%20vhs%20ghost",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/album/to-be-loved/1815635990?i=1815635992",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=to%20be%20loved%20vhs%20ghost",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=XeG_QvgD7l4&list=RDXeG_QvgD7l4&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -270,20 +270,20 @@
     "photo": "photos/12.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/0tyQ32pMkNdeECd95MFzcI",
+        "url": "https://open.spotify.com/track/0tyQ32pMkNdeECd95MFzcI?si=e4f14e79454e49d0",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Take%20It%20Slow%20Jigoooo%20Radio",
-        "mode": "search"
+        "url": "https://kkbox.fm/XY1SNBs",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/6790346178",
+        "url": "https://music.apple.com/us/song/take-it-slow/6790346178",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Take%20It%20Slow%20Jigoooo%20Radio",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=tKMFW1aQxvQ&list=RDtKMFW1aQxvQ&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -294,20 +294,20 @@
     "photo": "photos/13.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/0TM7YrVUBqJLwy7900v9Fz",
+        "url": "https://open.spotify.com/track/46XCEf2t5KZra4ksGpSzgj?si=e8edd25080eb46b1",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Fly%20%28Slowed%20%2B%20Reverb%29%20Dennis%20Korn",
-        "mode": "search"
+        "url": "https://kkbox.fm/Wi13p2s",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=Fly%20Slowed%20Reverb%20Dennis%20Korn",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/song/fly-slowed-reverb/1891382515",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Fly%20Slowed%20Reverb%20Dennis%20Korn",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=uoWGG7gT1YI&list=RDuoWGG7gT1YI&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -318,20 +318,20 @@
     "photo": "photos/14.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/50Q02S1ZY0hwbmHTMABuDC",
+        "url": "https://open.spotify.com/track/50Q02S1ZY0hwbmHTMABuDC?si=cc2b632401c94a57",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Somewhere%20Only%20We%20Know%20Rhianne",
-        "mode": "search"
+        "url": "https://kkbox.fm/Bo1Aqfs",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1764710480",
+        "url": "https://music.apple.com/us/song/somewhere-only-we-know/1764710480",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Somewhere%20Only%20We%20Know%20Rhianne",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=3oxjuUFj13w&list=RD3oxjuUFj13w&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -342,20 +342,20 @@
     "photo": "photos/15.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/The%20Child%20In%20Me%20Ron%20Adelaar",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/6Mk2pkh2zGiIjpRoVZqaLK?si=8dec8a90710947e6",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=The%20Child%20In%20Me%20Ron%20Adelaar",
-        "mode": "search"
+        "url": "https://kkbox.fm/Qx1Kdes",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=The%20Child%20In%20Me%20Ron%20Adelaar",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/album/the-child-in-me-single/1708264068",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=The%20Child%20In%20Me%20Ron%20Adelaar",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=1fiHnOaBF4I&list=RD1fiHnOaBF4I&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -366,20 +366,20 @@
     "photo": "photos/16.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/1950%20Dr.Danger",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/6n59686iCoLaJQVmij0sot?si=59f341a4c51c4220",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=1950%20Dr.Danger",
-        "mode": "search"
+        "url": "",
+        "mode": "unavailable"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=1950%20Dr.Danger",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/album/elevator-music-reimagined/1825005547",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=1950%20Dr.Danger",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=m722CVMlPjg&list=RDm722CVMlPjg&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -390,20 +390,20 @@
     "photo": "photos/17.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/album/3qHQ0WqQdY3p8a1ExkozNp",
-        "mode": "album"
+        "url": "https://open.spotify.com/track/2SyLEZFDH9pHAF4GpfVRJS?si=401c39da83a344dc",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=do%20you%20think%20you%20could%20love%20me%3F%20Yung%20kai",
-        "mode": "search"
+        "url": "https://kkbox.fm/VF14vSs",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1797590872",
+        "url": "https://music.apple.com/us/song/do-you-think-you-could-love-me/1797590872",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=do%20you%20think%20you%20could%20love%20me%3F%20Yung%20kai",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=UeV1iepenjY&list=RDUeV1iepenjY&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -414,20 +414,20 @@
     "photo": "photos/18.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/album/108biCEg5vUG7Efei5EhTf",
-        "mode": "album"
+        "url": "https://open.spotify.com/track/4WiGGTl7Kt5vnjQHqwLJy1?si=0d17fca2a42e4098",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=The%20Oogum%20Boogum%20Song%20Brenton%20Wood",
-        "mode": "search"
+        "url": "https://kkbox.fm/NC1HLCs",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1440935687",
+        "url": "https://music.apple.com/us/song/oogum-boogum-song/1440935687",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=The%20Oogum%20Boogum%20Song%20Brenton%20Wood",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=JbZ413-78ok&list=RDJbZ413-78ok&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -438,20 +438,20 @@
     "photo": "photos/19.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/album/22PMYyHfKd4bvFis6eVaS3",
-        "mode": "album"
+        "url": "https://open.spotify.com/track/2LX16d9LWQxmlUiOfxHKYO?si=adcca163de8f4bec",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Em%20Trang%20Tr%C3%AD%20Ng%E1%BB%8Dt.",
-        "mode": "search"
+        "url": "https://kkbox.fm/6swLuq",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1600616172",
+        "url": "https://music.apple.com/us/song/em-trang-tr%C3%AD/1600616172",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Em%20Trang%20Tr%C3%AD%20Ng%E1%BB%8Dt.",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=KypuJGsZ8pQ&list=RDKypuJGsZ8pQ&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -462,20 +462,20 @@
     "photo": "photos/20.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/0NRMJzzC9r2WL361Ludwhs",
+        "url": "https://open.spotify.com/track/4KA0UgTmFxivtJiBfkGH1x?si=431b58767b644151",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Fascination%20Nat%20King%20Cole",
-        "mode": "search"
+        "url": "https://kkbox.fm/esD3PR",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1443924660",
+        "url": "https://music.apple.com/us/song/fascination/1443924660",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Fascination%20Nat%20King%20Cole",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=eyOb7Y4tVX4&list=RDeyOb7Y4tVX4&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -486,20 +486,20 @@
     "photo": "photos/21.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/%E5%B3%B6%20%E6%A4%85%E5%AD%90%E6%A8%82%E5%9C%98",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/7wG3mdEECvyyzqkQjNXFCb?si=32c7827c2c2b4374",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E5%B3%B6%20%E6%A4%85%E5%AD%90%E6%A8%82%E5%9C%98",
-        "mode": "search"
+        "url": "https://kkbox.fm/ysUC3N",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=%E5%B3%B6%20%E6%A4%85%E5%AD%90%E6%A8%82%E5%9C%98",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/album/cheers-land/1470198629",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E5%B3%B6%20%E6%A4%85%E5%AD%90%E6%A8%82%E5%9C%98",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=SUIkD1fGmho&list=RDSUIkD1fGmho&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -510,20 +510,20 @@
     "photo": "photos/22.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%81%8C%E5%87%BA%E3%82%8B%E5%A4%9C%E3%81%AB%20%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/5ixDF6lSK7HtXd3wpUu6jF?si=fa5219bcf0ad4d45",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%81%8C%E5%87%BA%E3%82%8B%E5%A4%9C%E3%81%AB%20%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90",
-        "mode": "search"
+        "url": "https://kkbox.fm/rsplVd",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%81%8C%E5%87%BA%E3%82%8B%E5%A4%9C%E3%81%AB%20%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/song/dream-boat-ga-deru-yoru-ni/1610496644",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0%E3%83%BB%E3%83%9C%E3%83%BC%E3%83%88%E3%81%8C%E5%87%BA%E3%82%8B%E5%A4%9C%E3%81%AB%20%E8%8F%8A%E6%B1%A0%E6%A1%83%E5%AD%90",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=Do_Y0HWvknM&list=RDDo_Y0HWvknM&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -534,20 +534,20 @@
     "photo": "photos/23.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/49W7bdFu0r2mg029okCcet",
+        "url": "https://open.spotify.com/track/49W7bdFu0r2mg029okCcet?si=d16445c64f294b72",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E4%BA%BA%E9%96%93%E3%81%9D%E3%81%A3%E3%81%8F%E3%82%8A%20plenty",
-        "mode": "search"
+        "url": "https://kkbox.fm/osDnK4",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=%E4%BA%BA%E9%96%93%E3%81%9D%E3%81%A3%E3%81%8F%E3%82%8A%20plenty",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/song/%E4%BA%BA%E9%96%93%E3%81%9D%E3%81%A3%E3%81%8F%E3%82%8A/497637314",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E4%BA%BA%E9%96%93%E3%81%9D%E3%81%A3%E3%81%8F%E3%82%8A%20plenty",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=JwVZbPwsid4&list=RDJwVZbPwsid4&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -558,20 +558,20 @@
     "photo": "photos/24.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/album/0gwS2D9sukMLXNvleEnYr2",
-        "mode": "album"
+        "url": "https://open.spotify.com/track/6BGNjTZ8zp9MlsIydBa7A9?si=e4cb0ba3212142cd",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=For%20Lovers%20Lamp",
-        "mode": "search"
+        "url": "https://kkbox.fm/fsXW0K",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1486281115",
+        "url": "https://music.apple.com/us/song/for-lovers/1486281115",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=For%20Lovers%20Lamp",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=yUcIaHh4HEA&list=RDyUcIaHh4HEA&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -582,20 +582,20 @@
     "photo": "photos/25.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/L%C2%B4atelier%20Sungha%20Jung",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/355kbXbcPqo8i6Zh3NX2d1?si=3ae9fbb09a1c445a",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=L%C2%B4atelier%20Sungha%20Jung",
-        "mode": "search"
+        "url": "https://kkbox.fm/4sB55a",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=L%C2%B4atelier%20Sungha%20Jung",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/song/latelier/1759521285",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=L%C2%B4atelier%20Sungha%20Jung",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=Y9C6TdjbI2o&list=RDY9C6TdjbI2o&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -606,44 +606,44 @@
     "photo": "photos/26.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/0XL5Ej52BfAU8svhprMNnD",
+        "url": "https://open.spotify.com/track/0XL5Ej52BfAU8svhprMNnD?si=d9df5f66ee5b4428",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=True%20Spandau%20Ballet",
-        "mode": "search"
+        "url": "https://kkbox.fm/6s0N92",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/697480528",
+        "url": "https://music.apple.com/us/song/true/697480528",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=True%20Spandau%20Ballet",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=AR8D2yqgQ1U&list=RDAR8D2yqgQ1U&start_radio=1",
+        "mode": "video"
       }
     }
   },
   {
     "id": "27",
-    "title": "恋におちて -Fall in love-",
+    "title": "戀におちて -Fall in love-)",
     "artist": "小林明子",
     "photo": "photos/27.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/02bJCgSVf2p8kVhJs7uhOB",
+        "url": "https://open.spotify.com/track/02bJCgSVf2p8kVhJs7uhOB?si=7703c6e4a7874c71",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/song/SnMIMe6c2cLmxSTL-7",
+        "url": "https://kkbox.fm/Vo1UIas",
         "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=%E6%81%8B%E3%81%AB%E3%81%8A%E3%81%A1%E3%81%A6%20Fall%20in%20love%20%E5%B0%8F%E6%9E%97%E6%98%8E%E5%AD%90",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/song/%E6%81%8B%E3%81%AB%E3%81%8A%E3%81%A1%E3%81%A6-fall-in-love/1536774912",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E6%81%8B%E3%81%AB%E3%81%8A%E3%81%A1%E3%81%A6%20Fall%20in%20love%20%E5%B0%8F%E6%9E%97%E6%98%8E%E5%AD%90",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=Cc5M23N2o_k&list=RDCc5M23N2o_k&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -654,16 +654,16 @@
     "photo": "photos/28.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/Autumn%20Journey%20Andrea%20Vanzo",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/0RbKTwo19h6oy0DDgVHqG9?si=9935edadb9f6437e",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Autumn%20Journey%20Andrea%20Vanzo",
-        "mode": "search"
+        "url": "https://kkbox.fm/XB17oms",
+        "mode": "track"
       },
       "apple": {
         "url": "https://music.apple.com/us/album/autumn-journey-single/6802456334",
-        "mode": "album"
+        "mode": "track"
       },
       "youtube": {
         "url": "https://www.youtube.com/watch?v=V8zJsRx_R9I",
@@ -678,20 +678,20 @@
     "photo": "photos/29.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/0O3lcDRoCIfcKf5Tc9Pisj",
+        "url": "https://open.spotify.com/track/0O3lcDRoCIfcKf5Tc9Pisj?si=925d4297aea54d0f",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Little%20Love%20Flowerbed",
-        "mode": "search"
+        "url": "https://kkbox.fm/VH1AWGs",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1840157195",
+        "url": "https://music.apple.com/us/song/little-love/1840157195",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Little%20Love%20Flowerbed",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=a0Pcg0xbOe8&list=RDa0Pcg0xbOe8&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -702,15 +702,15 @@
     "photo": "photos/30.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/1h1odolBoxI1BvZUpoAGcH",
+        "url": "https://open.spotify.com/track/1h1odoIBoxI1BvZUpoAGcH?si=753c5ebdff4e428c",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/hk/tc/song/8qW285a8YrrZMFoy-M",
-        "mode": "track-hk"
+        "url": "https://kkbox.fm/TG1D29S",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/vn/song/1762980607",
+        "url": "https://music.apple.com/vn/song/%E6%89%8D%E4%BA%8C%E5%8D%81%E4%B8%89/1762980607",
         "mode": "track"
       },
       "youtube": {
@@ -726,15 +726,15 @@
     "photo": "photos/31.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo",
+        "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo?si=73b345e839224514",
         "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Let%20You%20Break%20My%20Heart%20Again%20Laufey%2C%20Philharmonia%20Orchestra",
-        "mode": "search"
+        "url": "https://kkbox.fm/7l1kxQs",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1606417551",
+        "url": "https://music.apple.com/us/song/let-you-break-my-heart-again/1606417551",
         "mode": "track"
       },
       "youtube": {
@@ -745,25 +745,25 @@
   },
   {
     "id": "32",
-    "title": "世界的約定",
+    "title": "世界的約束",
     "artist": "竹仲繪里",
     "photo": "photos/32.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/%E4%B8%96%E7%95%8C%E3%81%AE%E7%B4%84%E6%9D%9F%20%E7%AB%B9%E4%BB%B2%E7%B5%B5%E9%87%8C",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/5wuqCgvvVphr5nxVZn17zD?si=bb429e304c84458b",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=%E4%B8%96%E7%95%8C%E7%9A%84%E7%B4%84%E5%AE%9A%20%E7%AB%B9%E4%BB%B2%E7%B9%AA%E9%87%8C",
-        "mode": "search"
+        "url": "https://kkbox.fm/LN1BIvs",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/tw/search?term=%E4%B8%96%E7%95%8C%E3%81%AE%E7%B4%84%E6%9D%9F%20%E7%AB%B9%E4%BB%B2%E7%B5%B5%E9%87%8C",
-        "mode": "search"
+        "url": "https://music.apple.com/tw/song/%E4%B8%96%E7%95%8C%E3%81%AE%E7%B4%84%E6%9D%9F/1444540482",
+        "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=%E4%B8%96%E7%95%8C%E3%81%AE%E7%B4%84%E6%9D%9F%20%E7%AB%B9%E4%BB%B2%E7%B5%B5%E9%87%8C",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=flOTdMWrJ8k&list=RDflOTdMWrJ8k&start_radio=1",
+        "mode": "video"
       }
     }
   },
@@ -774,20 +774,20 @@
     "photo": "photos/33.jpg",
     "links": {
       "spotify": {
-        "url": "https://open.spotify.com/search/Midnight%20Walk%20d.ear",
-        "mode": "search"
+        "url": "https://open.spotify.com/track/3JMIlEumpNqUAN5mTk3Ejj?si=3984ce3d3fe74e43",
+        "mode": "track"
       },
       "kkbox": {
-        "url": "https://www.kkbox.com/tw/tc/search.php?word=Midnight%20Walk%20d.ear",
-        "mode": "search"
+        "url": "https://kkbox.fm/Uh1SJ2s",
+        "mode": "track"
       },
       "apple": {
-        "url": "https://music.apple.com/us/song/1800086229",
+        "url": "https://music.apple.com/us/song/midnight-walk/1800086229",
         "mode": "track"
       },
       "youtube": {
-        "url": "https://www.youtube.com/results?search_query=Midnight%20Walk%20d.ear",
-        "mode": "search"
+        "url": "https://www.youtube.com/watch?v=nsj3SfK6L98&list=RDnsj3SfK6L98&start_radio=1",
+        "mode": "video"
       }
     }
   }
